@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dilshad Raza, I'm a Data Scientist. I analyze and explore data from data sources to make sense and develop high-tech solutions based on AI for automation.
+- 👋 Hi, I’m Dilshad Raza, I'm a Geologist with main domain of interest in Data Science. I analyze and explore data from data sources to make sense and develop high-tech solutions based on AI for automation.
 
 - Github: @dilshad-geol
 
